@@ -30,7 +30,7 @@ function App() {
         </div>
 
         <div className="Bttns">
-        <Key label={7} clickHandler={clickHandler} />
+          <Key label={7} clickHandler={clickHandler} />
           <Key label={8} clickHandler={clickHandler} />
           <Key label={9} clickHandler={clickHandler} />
           <Key label={"/"} clickHandler={clickHandler} />
